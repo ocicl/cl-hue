@@ -3,8 +3,7 @@
 Common Lisp client for Philips Hue API
 
 |---------+-------------------------------------------|
-| source  | git:https://github.com/jd/cl-hue.git   |
-| commit  | e92996f  |
-| systems | cl-hue |
+| source  | git:https://github.com/atgreen/cl-hue.git |
+| commit  | 01a7774                                   |
+| systems | cl-hue                                    |
 |---------+-------------------------------------------|
-
