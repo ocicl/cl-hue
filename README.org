@@ -7,3 +7,4 @@ Common Lisp client for Philips Hue API
 | commit  | 01a7774                                   |
 | systems | cl-hue                                    |
 |---------+-------------------------------------------|
+ 
